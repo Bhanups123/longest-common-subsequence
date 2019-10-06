@@ -1,3 +1,5 @@
+// program for finding the longest common subsequnce using java
+
 import java.util.Scanner;
 class longest_common_subsequence{
 	static int[][] lcs_matrix;
